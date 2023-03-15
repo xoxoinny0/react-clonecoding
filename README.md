@@ -7,3 +7,4 @@
 * GlobalStyles 설정
 * flex 활용
 * 미디어쿼리를 적용한 반응형 웹 구현
+![Alt text](desktop.png)
