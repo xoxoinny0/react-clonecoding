@@ -9,10 +9,10 @@
 * 미디어쿼리를 적용한 반응형 웹 구현
 
 # 결과물
-## Desktop
+### Desktop
 ![Alt text](desktop.png)
-## Tablet
+### Tablet
 ![Alt text](tablet.png)
-## Mobile
+### Mobile
 ![Alt text](mobile.jpg)
 
